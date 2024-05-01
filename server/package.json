@@ -1,0 +1,27 @@
+{
+  "name": "server",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@electron/get": "^3.0.0",
+    "axios": "^1.6.8",
+    "cors": "^2.8.5",
+    
+    "express": "^4.19.2",
+    "free-translate": "^0.1.1",
+    "har-validator": "^5.1.5",
+    "lodash": "^4.17.21",
+    
+    "tough-cookie2": "^0.12.2",
+    "uuid": "^9.0.1",
+    "youtube-transcript": "^1.2.1"
+  }
+}
